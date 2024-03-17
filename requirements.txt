@@ -1,0 +1,4 @@
+conda-forge
+mlx-lm
+datasets
+jsonargparse
